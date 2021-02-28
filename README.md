@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[]("https://github.com/VrituuRuby/VrituuRuby/blob/main/blacksmith2.gif")
+![Some of my pixelart]("https://github.com/VrituuRuby/VrituuRuby/blob/main/blacksmith2.gif")
 
 ## - 😎 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 -
 
