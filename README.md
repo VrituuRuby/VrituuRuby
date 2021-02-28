@@ -30,14 +30,10 @@ I'm a pixel artist, newbie game dev and into web-dev recently :3
 >- **Currently Learning**: Godot(GDscript) game development, React JS.
 >- **Working On**: a Beat'em Up game in GODOT Maybe it will be on itch.io someday... who knows 🦦
 
----
-
 > ### - 𝙈𝙮 𝘿𝙧𝙚𝙖𝙢 -
 > I hope to make a cool and charmin' pixel art game someday that gains people's heart!
 
----
-
-<div align='center' style='border-radius: 50%; width: 500px'>
+<div align='center'>
 ![Me](https://avatars.githubusercontent.com/u/61244052?v=4)
 
 Thanks for passing by!
