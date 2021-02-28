@@ -35,7 +35,7 @@ I'm a pixel artist, newbie game dev and into web-dev recently :3
 
 <div align='center'>
   
-  <img src='https://avatars.githubusercontent.com/u/61244052?v=4' width='100px' />
+  <img src='https://avatars.githubusercontent.com/u/61244052?v=4' width='300px' style='border-radius: 50%' />
   
 Thanks for passing by!
 </div>
