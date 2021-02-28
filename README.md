@@ -31,6 +31,7 @@ I'm a pixel artist, newbie game dev and into web-dev recently :3
 > I hope to make a cool and charmin' pixel art game someday that gains people's heart!
 
 <center>
+
 ![Me](https://avatars.githubusercontent.com/u/61244052?v=4)
 
 Thanks for passing by!
