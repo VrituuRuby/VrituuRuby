@@ -35,8 +35,8 @@ I'm a pixel artist, newbie game dev and into web-dev recently :3
 
 <div align='center'>
   
-![Me](https://avatars.githubusercontent.com/u/61244052?v=4)
-
+  <img src='https://avatars.githubusercontent.com/u/61244052?v=4' width='100px' />
+  
 Thanks for passing by!
 </div>
 
