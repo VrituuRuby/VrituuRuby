@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 If you reading this, I love you.
 -->
 
-## - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 -
+# Wellcome - About me
 
-**Name:** Victor Velozo
-**Age:** 20 yo
-**Nationality:** Brazil - Paraná
-**Currently Learning**: React JS, Node JS Backend.
+- **Name:** Victor Velozo
+- **Age:** 20 yo
+- **Nationality:** Brazil - Paraná
+- **Currently Learning**: React JS, Node JS Backend.
