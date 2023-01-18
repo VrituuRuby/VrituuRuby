@@ -13,31 +13,9 @@ Here are some ideas to get you started:
 If you reading this, I love you.
 -->
 
-# - 🤠 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 -
-
-I'm a pixel artist, newbie game dev and into web-dev recently :3
-
-![Some of my pixelart](https://github.com/VrituuRuby/VrituuRuby/blob/main/blacksmith2.gif)
-
----
-
->## - 😎 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 -
+>## - 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚 -
 >
->- **Name:** Victor / Vritu
->- **Age:** 18 yo
->- **Nationality:** Brazilian
->- **Likes**: the person reading this <3, watching anime and playing indie games
->- **Currently Learning**: Godot(GDscript) game development, React JS.
->- **Working On**: a Beat'em Up game in GODOT Maybe it will be on itch.io someday... who knows 🦦
-
-> ### - 𝙈𝙮 𝘿𝙧𝙚𝙖𝙢 -
-> I hope to make a cool and charmin' pixel art game someday that gains people's heart!
-
-<div align='center'>
-  
-  <img src='https://avatars.githubusercontent.com/u/61244052?v=4' width='300px' style='border-radius: 50%' />
-  
-Thanks for passing by!
-</div>
-
-
+>- **Name:** Victor Velozo
+>- **Age:** 20 yo
+>- **Nationality:** Brazil - Paraná
+>- **Currently Learning**: React JS, Node JS Backend.
