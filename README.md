@@ -24,6 +24,6 @@ If you reading this, I love you.
 
 - 🌎 **Nationality:** Brazil - Paraná
 
-- 📔 ** Learning**: React JS, Node JS Backend.
+- 📔 **Learning:** React JS, Node JS Backend.
 
-- 🔭 **Looking for**: my first web-dev job.
+- 🔭 **Looking for:** my first web-dev job.
