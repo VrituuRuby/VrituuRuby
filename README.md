@@ -22,7 +22,7 @@ If you reading this, I love you.
 
 - ⚡ **Name**: Victor Velozo
 
-- 🔥 **Age:** 21yo
+- 🔥 **Age:** 22yo
 
 - 🌎 **Nationality:** Brazil - Paraná
 
